@@ -1,0 +1,269 @@
+# Blender MTL File: 'Sketchfab_2023_08_16_12_51_54.blend'
+# Material Count: 22
+
+newmtl Concrete2
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.500000 GrungeWall03_1K_Normal.png
+map_Kd GrungeWall03_1K_BaseColor.png
+map_Ns GrungeWall03_1K_Roughness.png
+
+newmtl ConcreteDamage
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Concrete044C_1K_NormalGL.png
+map_Kd Concrete044C_1K_Color.png
+map_Ns Concrete044C_1K_Roughness.png
+
+newmtl Conctere
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Concrete0311KNormalGL.jpg
+map_Kd Concrete0311KColor.jpeg
+map_Ns Concrete031_1K_Roughness.jpg
+
+newmtl DecalsWire
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.300000 0.300000 0.300000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.700000 CableTrim_Normal.png
+map_Kd CableTrim_BaseColor.png
+map_Ns CableTrim_Roughness.png
+
+newmtl Emis
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.787986 0.800000 0.776077
+Ks 1.000000 1.000000 1.000000
+Ke 1.287680 1.210155 0.748167
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl EmisFiol
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.592579 0.494389 0.590919
+Ks 1.000000 1.000000 1.000000
+Ke 1.675020 0.228555 3.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Gorshki
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Gorshok_Normal.png
+map_Kd Gorshok_BaseColor.png
+map_Ns Gorshok_Roughness.png
+refl Gorshok_Metallic.png
+
+newmtl Kirpich
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.300000 0.300000 0.300000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump kirpichs_normal.png
+map_Kd kirpichs_diffuseOriginal.png
+
+newmtl Leak1
+Ns 489.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd LeakAlpha.png
+map_d LeakAlpha.png
+
+newmtl Livnevka
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 2.000000 LivnevkaTest_normal.png
+map_Kd LivnevkaTest_diffuseOriginal.png
+map_Ns LivnevkaTest_smoothness.png
+
+newmtl Mesh
+Ns 90.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_d 0054.png
+
+newmtl MetalShhets
+Ns 446.466927
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.600000 0.600000 0.600000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.730000 DefaultMaterial_Normal.png
+map_Kd DefaultMaterial_BaseColor.png
+map_Ns DefaultMaterial_Roughness.png
+refl DefaultMaterial_Metallic.png
+
+newmtl MetalTrim8
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.300000 0.300000 0.300000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.230000 MetalTrim8_Normal.png
+map_Kd MetalTrim8_BaseColor.png
+map_Ns MetalTrim8_Roughness.png
+refl MetalTrim8_Metallic.png
+
+newmtl None
+Ns 500
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl Patno
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 2
+map_Kd Pyatno.png
+map_d Pyatno.png
+
+newmtl Plastic
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump DefaultMaterial_Normal.png
+map_Kd DefaultMaterial_BaseColor.png
+map_Ns DefaultMaterial_Roughness.png
+refl DefaultMaterial_Metallic.png
+
+newmtl Puddle
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.082798 0.082798 0.082798
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl TileTerra
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump TileTerra_Normal.png
+map_Kd TileTerra_BaseColor.png
+map_Ns TileTerra_Roughness.png
+
+newmtl Wood
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 2.000000 plywood_normal.png
+map_Kd plywood_diffuseOriginal.png
+
+newmtl garagedoor
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump DefaultMaterial_Normal.png
+map_Kd DefaultMaterial_BaseColor.png
+map_Ns DefaultMaterial_Roughness.png
+refl DefaultMaterial_Metallic.png
+
+newmtl salatLeaves
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd salatLeaves.png
+map_d salatLeaves.png
+
+newmtl water
+Ns 567.238740
+Ka 1.000000 1.000000 1.000000
+Kd 0.080012 0.062873 0.022885
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.310000
+d 0.800000
+illum 9
