@@ -1,44 +1,135 @@
 ﻿  Proyecto.cpp
 C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL_Stuff\include\learnopengl\shader.h(55,40): warning C4101: 'e': variable local sin referencia
 C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL_Stuff\include\learnopengl\mesh.h(84,1): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(137,22): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(166,134): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(166,104): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(166,74): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(170,56): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(171,59): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(176,134): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(176,104): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(176,74): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(180,56): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(181,59): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(187,134): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(187,104): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(187,74): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(191,56): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(192,60): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(196,134): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(196,104): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(196,74): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(200,56): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(201,60): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(205,134): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(205,104): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(205,74): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(209,56): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(210,60): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(220,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(221,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(241,21): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(242,22): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(243,15): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(351,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(354,25): warning C4305: '=': truncamiento de 'double' a 'float'
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(439,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(440,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(444,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(445,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(447,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(448,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(470,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(159,22): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(190,86): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(190,72): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(190,58): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(194,56): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(195,59): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(201,86): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(201,72): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(201,58): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(205,56): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(206,59): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(212,86): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(212,72): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(212,58): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(216,56): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(217,60): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(224,86): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(224,72): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(224,58): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(228,56): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(229,60): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(234,86): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(234,72): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(234,58): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(238,56): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(239,60): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(245,86): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(245,72): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(245,58): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(249,56): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(250,60): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(256,86): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(256,72): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(256,58): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(260,56): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(261,60): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(266,86): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(266,72): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(266,58): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(270,56): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(271,60): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(276,86): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(276,72): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(276,58): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(280,56): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(281,60): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(286,86): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(286,72): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(286,58): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(290,56): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(291,60): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(296,87): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(296,73): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(296,59): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(300,57): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(301,61): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(306,87): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(306,73): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(306,59): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(310,57): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(311,61): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(316,87): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(316,73): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(316,59): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(320,57): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(321,61): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(326,87): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(326,73): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(326,59): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(330,57): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(331,61): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(336,87): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(336,73): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(336,59): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(340,57): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(341,61): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(346,87): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(346,73): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(346,59): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(350,57): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(351,61): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(356,87): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(356,73): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(356,59): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(360,57): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(361,61): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(366,87): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(366,73): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(366,59): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(370,57): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(371,61): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(376,87): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(376,73): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(376,59): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(380,57): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(381,61): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(386,87): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(386,73): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(386,59): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(390,57): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(391,61): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(396,87): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(396,73): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(396,59): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(400,57): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(401,61): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(406,87): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(406,73): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(406,59): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(410,57): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(411,61): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(423,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(424,59): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(436,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(437,59): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(448,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(449,59): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(460,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(461,59): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(481,21): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(482,22): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(483,15): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(549,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(552,25): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(634,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(635,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(639,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(640,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(642,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(643,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\OpenGL\Proyecto.cpp(665,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
   OpenGL.vcxproj -> C:\Users\kenny\Documents\Visual Studio 2022\OpenGL\x64\Debug\OpenGL.exe
